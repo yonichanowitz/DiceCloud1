@@ -1,51 +1,78 @@
 [{
 "1st Edition":{
 
-"Dwarf":{"source":"players handbook"},
-"Elf":{"source":"players handbook"},
-"Halfling":{"source":"players handbook"},
-"Human":{"source":"players handbook"},
+  "Dwarf":{"source":"players handbook"},
+  "Elf":{"source":"players handbook"},
+  "Halfling":{"source":"players handbook"},
+  "Human":{"source":"players handbook"},
+  "Gnome":{"source":"players handbook"},
+  "Half-elf":{"source":"players handbook"},
+  "Half-orc":{"source":"players handbook"},
+  "Hengeyokai":{"source":"Oriental Adventures"},
+  "Korobokuru":{"source":"Oriental Adventures"},
+  "Spirit Folk":{"source":"Oriental Adventures"},
+  
 
 },
 "2nd Edition":{
 
-"Dwarf":{"source":"players handbook"},
-"Elf":{"source":"players handbook"},
-"Halfling":{"source":"players handbook"},
-"Human":{"source":"players handbook"},
+  "Dwarf":{"source":"players handbook"},
+  "Elf":{"source":"players handbook"},
+  "Halfling":{"source":"players handbook"},
+  "Human":{"source":"players handbook"},
+  "Gnome":{"source":"players handbook"},
+  "Half-elf":{"source":"players handbook"},
+  "Aasimar":{"source":"Planewalker's Handbook"},
 
 },
 "3rd Edition":{
 
-"Dwarf":{"source":"players handbook"},
-"Elf":{"source":"players handbook"},
-"Halfling":{"source":"players handbook"},
-"Human":{"source":"players handbook"},
+  "Dwarf":{"source":"players handbook"},
+  "Elf":{"source":"players handbook"},
+  "Halfling":{"source":"players handbook"},
+  "Human":{"source":"players handbook"},
+  "Gnome":{"source":"players handbook"},
+  "Half-elf":{"source":"players handbook"},
+  "Half-orc":{"source":"players handbook"},
+  "Hengeyokai":{"source":"Oriental Adventures"},
+  "Korobokuru":{"source":"Oriental Adventures"},
+  "Spirit Folk":{"source":"Unaproachable East"},
+  "Aasimar":{"source":"Races of Faer&uacute;n"},
 
 },
 "3.5 Edition":{
 
-"Dwarf":{"source":"players handbook"},
-"Elf":{"source":"players handbook"},
-"Halfling":{"source":"players handbook"},
-"Human":{"source":"players handbook"},
+  "Dwarf":{"source":"players handbook"},
+  "Elf":{"source":"players handbook"},
+  "Halfling":{"source":"players handbook"},
+  "Human":{"source":"players handbook"},
+  "Gnome":{"source":"players handbook"},
+  "Half-elf":{"source":"players handbook"},
+  "Half-orc":{"source":"players handbook"},
+  "Aasimar":{"source":"Monster Manual"},
 
 },
 "4th Edition":{
 
-"Dwarf":{"source":"players handbook"},
-"Elf":{"source":"players handbook"},
-"Halfling":{"source":"players handbook"},
-"Human":{"source":"players handbook"},
+  "Dwarf":{"source":"players handbook"},
+  "Elf":{"source":"players handbook"},
+  "Halfling":{"source":"players handbook"},
+  "Human":{"source":"players handbook"},
+  "Half-elf":{"source":"players handbook"},
+  "Deva":{"source":"Players Handbook 2"},
 
 },
 "5th Edition":{
 
-"Dwarf":{"source":"players handbook"},
-"Elf":{"source":"players handbook"},
-"Halfling":{"source":"players handbook"},
-"Human":{"source":"players handbook"},
+  "Dwarf":{"source":"players handbook"},
+  "Elf":{"source":"players handbook"},
+  "Halfling":{"source":"players handbook"},
+  "Human":{"source":"players handbook"},
+  "Gnome":{"source":"players handbook"},
+  "Half-elf":{"source":"players handbook"},
+  "Half-orc":{"source":"players handbook"},
+  "Aasimar":{"source":"Volo's Guide to Monsters"},
 
-}
-}
+     }
+  }
 ]
