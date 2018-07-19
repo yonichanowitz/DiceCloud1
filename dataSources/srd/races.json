@@ -1,0 +1,51 @@
+[{
+"1st Edition":{
+
+"Dwarf":{"source":"players handbook"},
+"Elf":{"source":"players handbook"},
+"Halfling":{"source":"players handbook"},
+"Human":{"source":"players handbook"},
+
+},
+"2nd Edition":{
+
+"Dwarf":{"source":"players handbook"},
+"Elf":{"source":"players handbook"},
+"Halfling":{"source":"players handbook"},
+"Human":{"source":"players handbook"},
+
+},
+"3rd Edition":{
+
+"Dwarf":{"source":"players handbook"},
+"Elf":{"source":"players handbook"},
+"Halfling":{"source":"players handbook"},
+"Human":{"source":"players handbook"},
+
+},
+"3.5 Edition":{
+
+"Dwarf":{"source":"players handbook"},
+"Elf":{"source":"players handbook"},
+"Halfling":{"source":"players handbook"},
+"Human":{"source":"players handbook"},
+
+},
+"4th Edition":{
+
+"Dwarf":{"source":"players handbook"},
+"Elf":{"source":"players handbook"},
+"Halfling":{"source":"players handbook"},
+"Human":{"source":"players handbook"},
+
+},
+"5th Edition":{
+
+"Dwarf":{"source":"players handbook"},
+"Elf":{"source":"players handbook"},
+"Halfling":{"source":"players handbook"},
+"Human":{"source":"players handbook"},
+
+}
+}
+]
