@@ -23,6 +23,10 @@
   "Gnome":{"source":"players handbook"},
   "Half-elf":{"source":"players handbook"},
   "Aasimar":{"source":"Planewalker's Handbook"},
+  "Bariaur":{"source":"Planewalker's Handbook"},
+  "Bullywug":{"source":"Complete Book of Humanoids"},
+  "Bugbear":{"source":"Complete Book of Humanoids"},
+  "Centaur":{"source":"Complete Book of Humanoids"},
 
 },
 "3rd Edition":{
@@ -59,7 +63,10 @@
   "Halfling":{"source":"players handbook"},
   "Human":{"source":"players handbook"},
   "Half-elf":{"source":"players handbook"},
-  "Deva":{"source":"Players Handbook 2"},
+  "Deva":{"source":"players Handbook 2"},
+  "Eladrin":{"source":"players Handbook"},
+  "Dragonborn":{"source":"players Handbook"},
+  "Tiefling":{"source":"players Handbook"},
 
 },
 "5th Edition":{
@@ -71,6 +78,8 @@
   "Gnome":{"source":"players handbook"},
   "Half-elf":{"source":"players handbook"},
   "Half-orc":{"source":"players handbook"},
+  "Dragonborn":{"source":"players Handbook"},
+  "Tiefling":{"source":"players Handbook"},
   "Aasimar":{"source":"Volo's Guide to Monsters"},
 
      }
